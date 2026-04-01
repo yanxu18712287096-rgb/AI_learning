@@ -1,1 +1,1 @@
-# AI_learning
+# AI培训学习
