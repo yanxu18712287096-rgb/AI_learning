@@ -1,0 +1,74 @@
+  
+  140  ls
+  141  ls/
+  142   ls /
+  143  ls
+  144  ls -l
+  145  ls /
+  146  ls -l
+  147  ls / -l
+  148  ls -a
+  149  ls -la
+  150  cd AI_learning
+  151  ls -l
+  152  cd AI_learning
+  153  ls -l
+  154  cd VS_code
+  155  ll
+  156  ls -l
+  157  cd ..
+  158  cd ../..
+  159  cd -
+  160  pwd
+  161  ls -l
+  162  cd VS_code
+  163  pwd
+  164  cd ../..
+  165  cd ..
+  166  pwd
+  167  cd -
+  168  pwd
+  169  cd-
+  170  pwd
+  171  cd AI_learning
+  172  ls -l
+  173  cat README.md
+  174  nona README.md
+  175  nano README.md
+  176  nano README.md
+  177  file README.md
+  178  cd VS_code
+  179  ls -l
+  180  file myfile.py
+  181  where gcc
+  182  file /usr/bin/gcc
+  183  echo "hello world"
+  184  a = 100
+  185  a=100
+  186  echo b = $a
+  187  pwd
+  188  cd ..
+  189  pwd
+  190  cd ..
+  191  pwd
+  192  mv AI_learning Search_file
+  193  cd
+  194  pwd
+  195  cd -
+  196  pwd
+  197  ls
+  198  ls
+  199  cd ..
+  200  ls
+  201  mv AI_learning Search_file
+  202  pwd
+  203  cd ./Search_file/Al_learning
+  204  ls
+  205  cd /Search_file/Al_learning
+  206  cd Search_file/Al_learning
+  207  cd Search_file
+  208  ls
+  209  cd Al_learning
+  210  cd AI_learning
+  211  rm README.md
+  212  ls
